@@ -77,20 +77,22 @@ var randomItem = selectRandomItem(items);
                         const string_session = mega_url.replace('https://mega.nz/file/', '');
                         let md = "STARK-ALI~" + string_session;
                         let code = await sock.sendMessage(sock.user.id, { text: md });
-                        let desc = `*╭──「 𝐂𝐎𝐍𝐍𝐄𝐂𝐓𝐄𝐃 」───✑*
-*│ᴅᴏɴ'ᴛ sʜᴀʀᴇ ᴛʜɪs ᴄᴏᴅᴇ ᴡɪᴛʜ!!*
-*│ᴀɴʏᴏɴᴇ ᴜsᴇ  ᴄᴏᴅᴇ ᴛᴏ ᴄʀᴇᴀᴛᴇ*
-*│ᴀʟɪ & sᴛᴀʀᴋ ᴍᴅ ᴡᴀʜᴛᴀᴘᴘ ʙᴏᴛ.*
-*│───────────────────*
-*│ ∘ ᴄʜᴀɴɴᴇʟ:*
-*│ ∘https://tinyurl.com/26qonxcy*
-*│───────────────────*
-*│ ∘ ᴏᴡɴᴇʀ:*
-*│ ∘https://tinyurl.com/24ac6the*
-*│───────────────────*
-*│ ∘ ɢʀᴏᴜᴘ:*
-*│ ∘https://tinyurl.com/2acmqaqz*
-*╰───────────────────*`; 
+                        let desc = `> *CONNECTED SUCCESSFULLY ✅*
+╭────「 𝐂𝐎𝐍𝐍𝐄𝐂𝐓𝐄𝐃 」────◆
+│ *ʏᴏᴜᴠᴇ ᴄᴏᴍᴘʟᴇᴛᴇᴅ ᴛʜᴇ ғɪʀsᴛ sᴛᴇᴘ*
+│ *ᴛᴏ ᴅᴇᴘʟᴏʏ ᴀ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ.𓆈*
+│─────────────────────
+│ *∘ ᴄʜᴀɴɴᴇʟ:*
+│ *∘ https://tinyurl.com/26qonxcy*
+│─────────────────────
+│ *∘ ᴏᴡɴᴇʀ:*
+│ *∘ https://tinyurl.com/24ac6the*
+│─────────────────────
+│  *∘ ʀᴇᴘᴏ:*
+│  *∘  https://tinyurl.com/27mtrkul*
+│─────────────────────
+│ *∘ ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴀʟɪ ᴍᴀᴅᴇ ᴡɪᴛʜ ʟᴏᴠᴇ*
+╰─────────────────────`; 
                         await sock.sendMessage(sock.user.id, {
 text: desc,
 contextInfo: {
@@ -106,20 +108,22 @@ renderLargerThumbnail: false
 {quoted:code })
                     } catch (e) {
                             let ddd = sock.sendMessage(sock.user.id, { text: e });
-                            let desc = `*╭──「 𝐂𝐎𝐍𝐍𝐄𝐂𝐓𝐄𝐃 」───✑*
-*│ᴅᴏɴ'ᴛ sʜᴀʀᴇ ᴛʜɪs ᴄᴏᴅᴇ ᴡɪᴛʜ!!*
-*│ᴀɴʏᴏɴᴇ ᴜsᴇ  ᴄᴏᴅᴇ ᴛᴏ ᴄʀᴇᴀᴛᴇ*
-*│ᴀʟɪ & sᴛᴀʀᴋ ᴍᴅ ᴡᴀʜᴛᴀᴘᴘ ʙᴏᴛ.*
-*│───────────────────*
-*│ ∘ ᴄʜᴀɴɴᴇʟ:*
-*│ ∘https://tinyurl.com/26qonxcy*
-*│───────────────────*
-*│ ∘ ᴏᴡɴᴇʀ:*
-*│ ∘https://tinyurl.com/24ac6the*
-*│───────────────────*
-*│ ∘ ɢʀᴏᴜᴘ:*
-*│ ∘https://tinyurl.com/2acmqaqz*
-*╰───────────────────*`; 
+                            let desc = `> *CONNECTED SUCCESSFULLY ✅*
+╭────「 𝐂𝐎𝐍𝐍𝐄𝐂𝐓𝐄𝐃 」────◆
+│ *ʏᴏᴜᴠᴇ ᴄᴏᴍᴘʟᴇᴛᴇᴅ ᴛʜᴇ ғɪʀsᴛ sᴛᴇᴘ*
+│ *ᴛᴏ ᴅᴇᴘʟᴏʏ ᴀ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ.𓆈*
+│─────────────────────
+│ *∘ ᴄʜᴀɴɴᴇʟ:*
+│ *∘ https://tinyurl.com/26qonxcy*
+│─────────────────────
+│ *∘ ᴏᴡɴᴇʀ:*
+│ *∘ https://tinyurl.com/24ac6the*
+│─────────────────────
+│  *∘ ʀᴇᴘᴏ:*
+│  *∘  https://tinyurl.com/27mtrkul*
+│─────────────────────
+│ *∘ ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴀʟɪ ᴍᴀᴅᴇ ᴡɪᴛʜ ʟᴏᴠᴇ*
+╰─────────────────────`; 
                             await sock.sendMessage(sock.user.id, {
 text: desc,
 contextInfo: {
